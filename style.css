@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+strong{
+    color: chocolate;
+}
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+.TOP IMG{
+    margin: 60px opx;
+}
+.top P{
+    width: 700px;
+}
+button{
+    background-color: orangered;
+    color: antiquewhite;
+    border-radius: 8px;
+    border: none;
+    padding: 9px;
+    margin: 50px;
+}
+.madal{
+    display: flex;
+    background-image: url(./7.png);
+    background-repeat: no-repeat;
+}
+.madal img{
+    padding-left: 90px;
+    margin: 50px 100px;
+}
+.madal p{
+    width: 600px;
+}
+.abut{
+    margin-left: 80px;
+    padding: 50px;
+}
+.paragara{
+    text-align: center;
+    align-items: center;
+    margin-left: 400px;
+    padding: 30px;
+    width: 500px;
+}
+.recipies{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+    padding-left: 100px;
+    width: 200px;
+}
+.recipie{
+    background-color: rgb(227,243,243);
+    margin: 100px;
+    border-style: solid;
+    border: none;
+    border-radius: 6px;
+    padding: 20px;
+    box-shadow: 3px 1px 10px 1px;
+}
+.myre{ background-color: azure;
+    border-style: solid;
+    border: none;
+    border-radius: 10px;
+}
+.k{
+    display: flex;
+    border-style: solid;
+    background-color: rgb(248,245,245);
+    border: none;
+    border-radius: 7px;
+}
+.l{
+    text-align: center;
+    align-items: center;
+    margin-left: 160px;
+    padding: 70px;
+}
+footer{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    padding: 30px 0;
+}
